@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Меня зовут Максим.
+#### Я учусь программировать .
+![Я учусь программировать .](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**gut1r/gut1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я учусь в институте Огу имени Тургенева. На специальность прикладная информатика
 
-Here are some ideas to get you started:
+Skills:  JS / HTML / Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
